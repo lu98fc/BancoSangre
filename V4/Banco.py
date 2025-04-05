@@ -39,8 +39,8 @@ class RegistroDonanteApp:
         self.conn = mysql.connector.connect(
             host="localhost",
             user="root",
-            password="41061199",
-            database="Bancodesangre"
+            password="",
+            database="bancodesangre"
         )
         self.cursor = self.conn.cursor()
 
