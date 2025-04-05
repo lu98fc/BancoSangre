@@ -17,8 +17,8 @@ class Menu:
 
         self.conn = mysql.connector.connect(
             host="localhost",
-            user="root",
-            password="41061199",
+            user="",
+            password="",
             database="bancodesangre"
         )
         self.cursor = self.conn.cursor()
