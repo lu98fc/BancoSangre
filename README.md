@@ -20,7 +20,7 @@ Sin más por agregar muchas gracias.
 
 Conclusión 
 
-Este proyecto nos sirvió como una práctica para  trabajar en grupo,  gracias a todas las herramientas brindadas en este trayecto de formación profesional,  donde nos acompañó el profesor Diego Figueroa.  A lo largo del desarrollo del proyecto nos surgieron algunos inconvenientes, que hemos solucionado con éxito gracias a el trabajo en grupo y la dedicación de cada miembro, ya que nos llevó varias horas de trabajo e investigación sobre las herramientas con las cuales hemos trabajado y todo lo que utilizamos en el proyecto. 
+Este proyecto nos sirvió como una práctica para  trabajar en grupo,  gracias a todas las herramientas brindadas en este trayecto de formación profesional. A lo largo del desarrollo del proyecto nos surgieron algunos inconvenientes, que hemos solucionado con éxito gracias a el trabajo en grupo y la dedicación de cada miembro, ya que nos llevó varias horas de trabajo e investigación sobre las herramientas con las cuales hemos trabajado y todo lo que utilizamos en el proyecto. 
 Agradecemos la posibilidad que nos han brindado , como así también la confianza en que lograrías llegar a cumplir con los objetivos del trayecto. 
 
 
